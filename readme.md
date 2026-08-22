@@ -29,7 +29,8 @@ Data Analysis
       ↓
 Machine Learning
       ↓
-Applications```
+Applications
+```
 
 # Featured Projects
 
