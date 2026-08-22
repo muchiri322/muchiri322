@@ -1,57 +1,38 @@
 ## Hello there
-# I am  Muchiri  Dennis
-### Data Engineer & Data Analyst
+# I'm Muchiri
 
-I design, build, and optimize data systems that help organizations make informed, data-driven decisions. My work focuses on scalable data pipelines, analytics automation, and transforming raw data into meaningful insights.
+### Data Engineer | Data Analyst | AI/ML
+
+I work with data from the point where it is still messy to the point where someone can actually use it.
+
+Most of my projects involve some combination of Python, SQL, data pipelines, analytics, machine learning, APIs, and AI. I enjoy understanding how data moves through a system and finding practical ways to turn it into something useful.
+
+I'm based in Kenya and I'm currently building deeper experience in data engineering, analytics, machine learning, and AI applications.
 
 ---
 
 ## About Me
-I am passionate about solving real-world problems using data. I work across data engineering and analytics, combining technical expertise with strong analytical thinking to deliver reliable, production-ready solutions.
 
----
+My background started with practical technical and engineering work, which taught me the importance of troubleshooting, understanding systems, and solving problems methodically.
 
-## Technical Skills
+Over time, I moved deeper into technology and data.
 
-### Data Engineering
-- Python (Pandas, PySpark, NumPy)
-- SQL (PostgreSQL, MySQL, SQL Server)
-- ETL/ELT: Airflow, dbt, Prefect
-- Data Warehousing: BigQuery, Snowflake, Redshift
-- Cloud Platforms:
-  - GCP: BigQuery, Cloud Storage
-  - AWS: S3, Glue, Lambda, Athena
-  - Azure: Data Factory, Synapse
+Today, I'm particularly interested in building systems that connect different parts of the data lifecycle:
 
-### Data Analytics
-- Power BI
-- Tableau
-- Excel (Advanced)
-- Data Modelling
-- Statistical Analysis
-- Dashboard Development
+```text
+Data Collection
+      ↓
+Data Processing
+      ↓
+Data Storage
+      ↓
+Data Analysis
+      ↓
+Machine Learning
+      ↓
+Applications
 
-### Other Tools & Technologies
-- Git and GitHub
-- Docker
-- Linux / Bash
-- API integration and automation
-- JSON, YAML, Parquet, CSV
 
----
-
-## Core Capabilities
-- Building scalable end-to-end data pipelines  
-- Designing and orchestrating automated workflows  
-- Data cleaning, transformation, and validation  
-- Creating analytical dashboards and reporting solutions  
-- Large dataset processing and performance optimization  
-- Data storytelling and insight generation  
-
----
-
-## Contact  
-Email: muchiridennis036@gmail.com  
 
 
 
