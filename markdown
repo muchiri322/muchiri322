@@ -1,5 +1,4 @@
-## Hello there
-# I'm Muchiri
+# Hello there, I'm Muchiri
 
 ### Data Engineer | Data Analyst | AI/ML
 
@@ -31,8 +30,3 @@ Data Analysis
 Machine Learning
       ↓
 Applications
-
-
-
-
-
