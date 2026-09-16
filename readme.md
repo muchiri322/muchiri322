@@ -6,7 +6,7 @@ I work with data from the point where it is still messy to the point where someo
 
 Most of my projects involve some combination of Python, SQL, data pipelines, analytics, machine learning, APIs, and AI. I enjoy understanding how data moves through a system and finding practical ways to turn it into something useful.
 
-I'm based in Kenya and I'm currently building deeper experience in data engineering, analytics, machine learning, and AI applications.
+I amm currently building deeper experience in data engineering, analytics, machine learning, and AI applications.
 
 ---
 
@@ -36,7 +36,7 @@ Applications
 
 ## Gold ETL Pipeline
 
-An end-to-end data engineering project focused on extracting, cleaning, transforming and preparing data for downstream analytics.
+An end to end data engineering project focused on extracting, cleaning, transforming and preparing data for downstream analytics.
 
 **Technologies:** Python, Pandas, SQL, ETL
 
@@ -48,7 +48,7 @@ An end-to-end data engineering project focused on extracting, cleaning, transfor
 
 ### Kafka Streaming
 
-A practical project exploring real-time data streaming using Apache Kafka.
+A practical project exploring real time data streaming using Apache Kafka.
 
 The project helped me understand how data changes when it is continuously arriving rather than sitting in a static dataset.
 
@@ -90,7 +90,7 @@ A data analysis project focused on exploring energy-related data, identifying pa
 
 ## Machine Learning Applications
 
-I've built machine learning applications that take trained models beyond notebooks and expose them through APIs and simple web interfaces.
+I have built machine learning applications that take trained models beyond notebooks and expose them through APIs and simple web interfaces.
 
 **Technologies:** Python, Scikit-learn, FastAPI, Flask, Joblib
 
@@ -98,7 +98,7 @@ I've built machine learning applications that take trained models beyond noteboo
 
 ## AI and RAG Applications
 
-I'm exploring retrieval-augmented generation and how domain-specific information can be combined with large language models.
+I am exploring retrieval augmented generation and how domain specific information can be combined with large language models.
 
 My work includes document processing, embeddings, vector databases and semantic retrieval.
 
@@ -223,6 +223,6 @@ I am particularly interested in practical projects where I can learn from experi
 
 **GitHub:** [github.com/muchiri322](https://github.com/muchiri322)
 
-I'm always open to discussing data, engineering, machine learning and practical AI projects.
+I am always open to discussing data, engineering, machine learning and practical AI projects.
 
 
