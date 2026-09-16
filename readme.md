@@ -78,15 +78,7 @@ A streaming project that combines weather data with Apache Kafka to explore real
 
 ---
 
-## Energy Data Project
 
-A data analysis project focused on exploring energy-related data, identifying patterns and turning the results into useful insights.
-
-**Technologies:** Python, Pandas, NumPy, Data Visualization
-
-[View Project](https://github.com/muchiri322/Energy_project)
-
----
 
 ## Machine Learning Applications
 
