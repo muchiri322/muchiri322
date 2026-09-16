@@ -34,6 +34,18 @@ Applications
 
 # Featured Projects
 
+# Telco Customer Churn Prediction API
+
+A machine learning application that predicts whether a telecom customer is likely to churn based on customer demographics, services, contract information and billing details.
+
+The project takes a trained machine learning pipeline and exposes it through a FastAPI REST API, allowing users or other applications to submit customer information and receive a churn prediction.
+
+The project demonstrates the complete workflow from machine learning development to API deployment, including data preprocessing, model persistence, input validation and prediction serving.
+
+Technologies: Python, Pandas, Scikit-learn, FastAPI, Pydantic, Joblib, HTML, CSS, JavaScript
+
+[View Project](https://github.com/muchiri322/Gold-ETL)
+
 ## Gold ETL Pipeline
 
 An end to end data engineering project focused on extracting, cleaning, transforming and preparing data for downstream analytics.
