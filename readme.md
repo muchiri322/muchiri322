@@ -44,7 +44,9 @@ The project demonstrates the complete workflow from machine learning development
 
 Technologies: Python, Pandas, Scikit-learn, FastAPI, Pydantic, Joblib, HTML, CSS, JavaScript
 
-[View Project](https://github.com/muchiri322/Gold-ETL)
+[View Project](https://github.com/muchiri322/Telco_Customer_churn_pred)
+
+---
 
 ## Gold ETL Pipeline
 
