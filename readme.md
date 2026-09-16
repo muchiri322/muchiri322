@@ -1,4 +1,4 @@
-# Hello there, I'm Muchiri
+# Hello there, I am Muchiri Dennis
 
 ### Data Engineer | Data Analyst | AI/ML
 
