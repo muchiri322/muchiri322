@@ -6,7 +6,7 @@ I work with data from the point where it is still messy to the point where someo
 
 Most of my projects involve some combination of Python, SQL, data pipelines, analytics, machine learning, APIs, and AI. I enjoy understanding how data moves through a system and finding practical ways to turn it into something useful.
 
-I amm currently building deeper experience in data engineering, analytics, machine learning, and AI applications.
+I am currently building deeper experience in data engineering, analytics, machine learning, and AI applications.
 
 ---
 
