@@ -46,6 +46,8 @@ Technologies: Python, Pandas, Scikit-learn, FastAPI, Pydantic, Joblib, HTML, CSS
 
 [View Project](https://github.com/muchiri322/Telco_Customer_churn_pred)
 
+**Pricing** Starting from: KES 15000.
+
 ---
 
 ## Gold ETL Pipeline
