@@ -46,7 +46,7 @@ Technologies: Python, Pandas, Scikit-learn, FastAPI, Pydantic, Joblib, HTML, CSS
 
 [View Project](https://github.com/muchiri322/Telco_Customer_churn_pred)
 
-**Pricing** Starting from: KES 15000.
+**Pricing:** Starting from KES 15,000.
 
 ---
 
@@ -57,6 +57,8 @@ An end to end data engineering project focused on extracting, cleaning, transfor
 **Technologies:** Python, Pandas, SQL, ETL
 
 [View Project](https://github.com/muchiri322/Gold-ETL)
+
+**Pricing:** Starting from KES 10,000.
 
 ---
 
@@ -72,6 +74,8 @@ The project helped me understand how data changes when it is continuously arrivi
 
 [View Project](https://github.com/muchiri322/Kafka-Streaming)
 
+**Pricing:** Starting from KES 15,000.
+
 ---
 
 ## Weather Data and Forecasting
@@ -82,6 +86,8 @@ A project focused on collecting, analysing and working with weather data to expl
 
 [View Project](https://github.com/muchiri322/weather-data-forecasting)
 
+**Pricing:** Starting from KES 10,000.
+
 ---
 
 ## Weather Kafka Pipeline
@@ -91,6 +97,8 @@ A streaming project that combines weather data with Apache Kafka to explore real
 **Technologies:** Python, Kafka, Streaming, Data Engineering
 
 [View Project](https://github.com/muchiri322/weather-Kafka)
+
+**Pricing:** Starting from KES 20,000.
 
 ---
 
