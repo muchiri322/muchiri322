@@ -16,7 +16,7 @@ My background started with practical technical and engineering work, which taugh
 
 Over time, I moved deeper into technology and data.
 
-Today, I am particularly interested in building systems that connect different parts of the data lifecycle:
+Today, I am building systems that connect different parts of the data lifecycle:
 
 ```text
 Data Collection
