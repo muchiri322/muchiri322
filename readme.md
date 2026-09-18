@@ -36,7 +36,7 @@ Applications
 
 # Telco Customer Churn Prediction API
 
-A machine learning application that predicts whether a telecom customer is likely to churn based on customer demographics, services, contract information and billing details.
+This is a machine learning application that predicts whether a telecom customer is likely to churn based on customer demographics, services, contract information and billing details.
 
 The project takes a trained machine learning pipeline and exposes it through a FastAPI REST API, allowing users or other applications to submit customer information and receive a churn prediction.
 
@@ -52,7 +52,7 @@ Technologies: Python, Pandas, Scikit-learn, FastAPI, Pydantic, Joblib, HTML, CSS
 
 ## Gold ETL Pipeline
 
-An end to end data engineering project focused on extracting, cleaning, transforming and preparing data for downstream analytics.
+It is an end to end data engineering project focused on extracting, cleaning, transforming and preparing data for downstream analytics.
 
 **Technologies:** Python, Pandas, SQL, ETL
 
@@ -66,7 +66,7 @@ An end to end data engineering project focused on extracting, cleaning, transfor
 
 ### Kafka Streaming
 
-A practical project exploring real time data streaming using Apache Kafka.
+Is a practical project exploring real time data streaming using Apache Kafka.
 
 The project helped me understand how data changes when it is continuously arriving rather than sitting in a static dataset.
 
@@ -80,7 +80,7 @@ The project helped me understand how data changes when it is continuously arrivi
 
 ## Weather Data and Forecasting
 
-A project focused on collecting, analysing and working with weather data to explore patterns and forecasting.
+Is a  project focused on collecting, analysing and working with weather data to explore patterns and forecasting.
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn
 
@@ -92,7 +92,7 @@ A project focused on collecting, analysing and working with weather data to expl
 
 ## Weather Kafka Pipeline
 
-A streaming project that combines weather data with Apache Kafka to explore real-time data processing.
+This is a streaming project that combines weather data with Apache Kafka to explore real-time data processing.
 
 **Technologies:** Python, Kafka, Streaming, Data Engineering
 
