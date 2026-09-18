@@ -218,7 +218,7 @@ I am currently focusing on:
 
 ---
 
-# What I'm Looking For
+# What I am Looking For
 
 I am interested in opportunities and collaborations involving:
 
@@ -228,8 +228,6 @@ I am interested in opportunities and collaborations involving:
 - Machine Learning
 - AI Applications
 - Data Platforms
-
-I am particularly interested in practical projects where I can learn from experienced teams while contributing to real problems.
 
 ---
 
